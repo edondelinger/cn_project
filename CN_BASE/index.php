@@ -3,7 +3,7 @@
  * Page principale de l'application intranet constructions nouvelles
  * @author SIO Team
  * @version 0.1 
- * @todo : bcp de choses encore ...
+ * @todo : bcp de choses encore ... mais le temps manque
  */
 session_start();
 require_once("include/fonctions.php");
